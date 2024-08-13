@@ -26,6 +26,14 @@ public class Program3{
 
 //Paste console output below:
 /*
+What is the length?:
+143
+What is the width?:
+82
+Length:143
+Width:82
+The area is:11726
+The perimeter is:450
 
 
 */
